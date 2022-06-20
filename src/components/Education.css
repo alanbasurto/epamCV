@@ -1,0 +1,16 @@
+.education{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+.education>h3{
+    text-align: center;
+}
+
+.edu-item{
+    display: flex;
+    justify-content: space-between;
+    margin: .8rem;
+    background-color: beige;
+    font-size: 2rem;
+}

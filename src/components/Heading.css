@@ -1,0 +1,23 @@
+.heading{
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+.text{
+    background-color: azure;
+    width: max-content;
+    margin: 3rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    width: 50%;
+}
+.image{
+    background-color: black;
+    width: 50%;
+    text-align: center;
+}
+img{
+    border-radius: 10rem;
+    padding: 3rem;
+}
