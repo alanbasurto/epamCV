@@ -1,0 +1,46 @@
+{
+	"heading": {
+		"name": "Alan Basurto",
+		"address": "Edo Mex, Mexico",
+		"email": "alanrbasurto@gmail.com"
+	},
+	"about": "Self-taught, organized, motivated and commited Computing System engineering student on his last year. Really keen on cloud computing and cybersecurity topics.",
+	"education": [
+		{
+			"school": "ESCOM-IPN",
+			"date": "Aug 2018 - Jun 2023"
+		},
+		{
+			"school": "CECyT 3-IPN",
+			"date": "Aug 2015 - Jun 2018"
+		}
+	],
+	"experience": [
+		{
+			"company": "EPAM",
+			"description": "I am part of the GCP program training in order to improve my different stack of skills"
+		},
+		{
+			"company": "ATOMS-E-commerce",
+			"description": "I was part of an intership program to be in the integrations team for ATOMS eCommerce agency. The projects they develop, required the integration of catalogues, sales and inventory between the eCommerce platform Shopify and the client's ERP.\nThe activities of wich I was part of were launching, configuration and support of azure servers with the technological stach required by the team on each project"
+		}
+	],
+	"skills": [
+		"Java",
+		"JavaScript",
+		"Python",
+		"React",
+		"Node"
+	],
+	"languages": [
+		"Spanish native",
+		"English B2",
+		"German Basic in progress"
+	],
+	"hoobies": [
+		"Sport",
+		"Mixology",
+		"Watching series"
+	],
+	"photo":"https://scontent.fmex11-2.fna.fbcdn.net/v/t39.30808-6/242405553_10161187856669167_1034509061127723605_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=105&ccb=1-7&_nc_sid=85a577&_nc_ohc=emCJDD1ChMIAX-DjAZu&_nc_ht=scontent.fmex11-2.fna&oh=00_AT-YkR9HVF_6k-sBVPshCObdJtEQLTBP7i3WXsiCQy4M-g&oe=62B18A83"
+}
